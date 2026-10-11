@@ -1,0 +1,7 @@
+dice_sim
+dice_interface
+*.vvp
+*.vcd
+__pycache__/
+*.pyc
+roll_request.txt
